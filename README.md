@@ -21,10 +21,6 @@ I'm a fresher software developer focused on building robust backend systems with
 ## 📫 Reach Me
 - LinkedIn: *https://www.linkedin.com/in/shivam-agrawal-388037363?utm_source=share_via&utm_content=profile&utm_medium=member_android*
 - Email: *shivamagrawal0712@gmail.com*
-
-## 📊 GitHub Stats
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam1154&show_icons=true&theme=default)
-
----
+  
 *Currently focused on strengthening core CS fundamentals and backend development skills.*
 -->
