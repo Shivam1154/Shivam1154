@@ -9,7 +9,7 @@ I'm a fresher software developer focused on building robust backend systems with
 - Strengthening my **Data Structures & Algorithms** fundamentals for problem solving
 
 ## 🌱 Currently Learning
-- Spring Boot (advanced concepts: security, JPA, microservices)
+- Spring Boot 
 - SQL and database internals
 - Data Structures & Algorithms (patterns-based practice)
 
